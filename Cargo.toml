@@ -1,7 +1,13 @@
 [package]
-name = "sphere"
-version = "0.1.0"
+name = "Sph-rs"
+version = "1.0.1"
 edition = "2021"
+license-file = "LICENSE"
+description = "Calculer le volume, périmètre, d'une sphère et d'un cercle dont le rayon est de 5.0, mais ultérieurement modifiable"
+documentation = "https://gthub.com/FBDev64/Sph-rs"
+repository = "https://github.com/FBDev64/Sph-rs.git"
+readme = "README.md"
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

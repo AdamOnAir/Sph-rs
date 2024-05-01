@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "sphere"
-version = "0.1.0"
+name = "Sph-rs"
+version = "1.0.1"
