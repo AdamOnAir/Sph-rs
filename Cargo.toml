@@ -1,6 +1,6 @@
 [package]
 name = "Sph-rs"
-version = "1.0.1"
+version = "1.0.2"
 edition = "2021"
 license-file = "LICENSE"
 description = "Calculer le volume, périmètre, d'une sphère et d'un cercle dont le rayon est de 5.0, mais ultérieurement modifiable"
